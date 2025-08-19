@@ -10,4 +10,4 @@ Instead of Excel, I use Markdown files so it’s simple, searchable, and version
 
 ## ✅ Progress
 - Started on: 18 Aug 2025
-- Current Focus: AWS, Terraform, DevOps tools
+- Current Focus: Linux, Azur Administrator, Azure Data Factory, Azure SQL Database, Docker, Kibernetes, Datadot, ITIL.
