@@ -2,6 +2,7 @@
 1. Created VM via custom script
 2. Created VM with cloudinit
 3. Both the machines are in Availablity set
+4. We can choose the Availability zone while creating VM
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -19,6 +20,12 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+- We can choose the Availability zone while creating VM
+  <img width="758" height="268" alt="image" src="https://github.com/user-attachments/assets/5e265c92-90b7-4b97-b186-ff945045f28f" />
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 - If we want ro run the server in on same hardware for better network performance we can use 'Proximity placement group'
 <img width="903" height="195" alt="image" src="https://github.com/user-attachments/assets/bf856fee-34e1-42b5-a463-42a059ef5a2a" />
+
 
