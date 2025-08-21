@@ -6,8 +6,9 @@ This repository tracks my daily learning and training progress.
 
 ## ⏳ Progress
 ## 🎓 Currently working on 'AZ-104 Microsoft Azure Administrator Certification' course from Udemy.
-- Started on: 20 Aug 2025
-<img width="1038" height="1233" alt="image" src="https://github.com/user-attachments/assets/dd11ec57-6082-49bc-87ca-515a6c687772" />
+- Started on: 20 Aug 2025	
+				
+<img width="1218" height="1859" alt="image" src="https://github.com/user-attachments/assets/1a1ac3dd-130f-40c5-9386-677af0e1ad8f" />
 
 
 ===============================================================================================================================================================================================================================
