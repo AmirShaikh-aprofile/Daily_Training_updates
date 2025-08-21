@@ -17,5 +17,6 @@ VM Images :- Can create a new image with underlying virtual machine with apps an
    Generic VM Images - Rremoved the used and machine information and original VM in unusable
 Proximitry placement groups - The VM are created in nerby hardware for bettter networ performance
 Azure Web App Service - the entire physhical and virtual infra takes care by the MS Azure
+Web app slots - It will create same app staing slot and for newer version of application then we can swap the to production and stgin as per need
 
 
