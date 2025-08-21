@@ -19,5 +19,7 @@ Proximitry placement groups - The VM are created in nerby hardware for bettter n
 Azure Web App Service - the entire physhical and virtual infra takes care by the MS Azure
 Web app slots - It will create same app staing slot and for newer version of application then we can swap the to production and stgin as per need
 App service autoscaling - we can scale manually(Standard) and automatically(premium pan) as per need
-
-
+Docker - Runs the application in containers by uding docker images which takes from the docker hub
+Azure container registry - Keeps all images in private azure registry same like docker hub
+Azure container instance - The physical and virtual infra takes care by the azure and we run the images directly without creating VMs
+Azure Container Group - Need to deploy multiple service on same VM
