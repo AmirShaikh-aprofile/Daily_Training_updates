@@ -18,5 +18,6 @@ VM Images :- Can create a new image with underlying virtual machine with apps an
 Proximitry placement groups - The VM are created in nerby hardware for bettter networ performance
 Azure Web App Service - the entire physhical and virtual infra takes care by the MS Azure
 Web app slots - It will create same app staing slot and for newer version of application then we can swap the to production and stgin as per need
+App service autoscaling - we can scale manually(Standard) and automatically(premium pan) as per need
 
 
