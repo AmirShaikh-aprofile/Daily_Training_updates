@@ -23,3 +23,5 @@ Docker - Runs the application in containers by uding docker images which takes f
 Azure container registry - Keeps all images in private azure registry same like docker hub
 Azure container instance - The physical and virtual infra takes care by the azure and we run the images directly without creating VMs
 Azure Container Group - Need to deploy multiple service on same VM
+Azure container app - 
+Azure web app - Create the resource which can directly run the image from container registry.
