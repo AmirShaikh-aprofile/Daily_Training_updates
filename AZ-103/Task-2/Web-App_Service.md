@@ -7,3 +7,6 @@ Can access the the webapp
 
 Created stagin deployment slot
 <img width="1909" height="449" alt="image" src="https://github.com/user-attachments/assets/e8305bd4-7048-4964-9796-8c3904b47612" />
+
+Can setup auto manual and autoscaling for this web -app service
+<img width="1559" height="994" alt="image" src="https://github.com/user-attachments/assets/3884f2f2-60cc-492f-b2fc-581dab182c98" />
