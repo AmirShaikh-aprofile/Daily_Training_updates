@@ -7,6 +7,7 @@
 6. Created new VM in another subnet but in same Vnet disabled the inbond rule from same subnet and added the private Ip of new VM
 7. Blocked all outbond rule for practice
 8. Added ICMP rule for ping the server with private IP
+9. Assignment 1:- Created NSG and ASG in diffrent region and found that the we connot associate and attached ASG and NSG in diffrent regions
 
 
 
@@ -62,7 +63,9 @@
 <img width="1880" height="644" alt="image" src="https://github.com/user-attachments/assets/b42192d7-6fbb-4bc0-abdd-b5175459ef3e" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+Assignment 1:- Created NSG and ASG in diffrent region and found that the we connot associate and attached ASG and NSG in diffrent regions
+<img width="1912" height="560" alt="image" src="https://github.com/user-attachments/assets/e1aa9c22-54d7-46b6-87da-aa2cb8c8bedf" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
