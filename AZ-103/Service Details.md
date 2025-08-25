@@ -25,3 +25,10 @@ Azure container instance - The physical and virtual infra takes care by the azur
 Azure Container Group - Need to deploy multiple service on same VM
 Azure container app - 
 Azure web app - Create the resource which can directly run the image from container registry.
+IPD Address range and CIDR  
+Virtual Network
+- Network Insterface -
+- Netwrok Security Groups
+- Subnets
+- Inbond and outbond rules
+- Application Security Groups
