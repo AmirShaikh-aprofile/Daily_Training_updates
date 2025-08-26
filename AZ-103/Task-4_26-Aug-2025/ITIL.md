@@ -1,4 +1,4 @@
-# ITIL Training
+<img width="958" height="505" alt="image" src="https://github.com/user-attachments/assets/d1cce3e2-b665-4029-8ea3-e5962b1d4e41" /># ITIL Training
 
 
 ## Reasons for ITIL implementation
@@ -48,4 +48,53 @@ __________
 - KPIs
 (Customer Satisfaction (CSAT) score, Service availability (%), Mean Time to Detect (MTTD) incidents, Mean Time to Resolve (MTTR) incidents/problems, Change success rate (%) (successful changes without incidents), Service Level Agreement (SLA) compliance rate (%), First-call resolution rate (%), Cost per ticket/service request, Backlog volume (open incidents/problems/requests)
 __________
+- Incident Management and teams
+The practice of minimizing the negative impact of incidents by restoring normal service operation as quickly as possible.
+ITSM, SRE, Devops
+_________
+## Exam QA
+<img width="1242" height="643" alt="image" src="https://github.com/user-attachments/assets/68acde85-ee6f-4b58-8bc3-93b9c88c4c7d" />
+<img width="1256" height="647" alt="image" src="https://github.com/user-attachments/assets/1a01b810-4dec-4521-a733-ef9a73225a21" />
+<img width="1273" height="648" alt="image" src="https://github.com/user-attachments/assets/d56e791d-63ca-44bb-a43d-0a580a0608f3" />
+<img width="1116" height="327" alt="image" src="https://github.com/user-attachments/assets/ba09fce7-189c-4ea0-bb57-851a30ddce9a" />
+<img width="1113" height="660" alt="image" src="https://github.com/user-attachments/assets/62a25e3b-709f-45ac-bda9-d61137397431" />
+<img width="958" height="531" alt="image" src="https://github.com/user-attachments/assets/ac816217-0776-47ed-bcc9-2f9407c03fa6" />
+<img width="942" height="511" alt="image" src="https://github.com/user-attachments/assets/dd8ba158-2ef7-4af7-9993-bf098fd93a6e" />
+<img width="1030" height="542" alt="image" src="https://github.com/user-attachments/assets/12017264-ce7b-40c4-8a29-60af3399485a" />
+<img width="1124" height="557" alt="image" src="https://github.com/user-attachments/assets/8f3de103-ee17-4a64-bda2-1d572c622694" />
+<img width="976" height="519" alt="image" src="https://github.com/user-attachments/assets/6b85fa83-f92c-4368-bf07-d672dc57b3f1" />
+<img width="989" height="520" alt="image" src="https://github.com/user-attachments/assets/586fb99f-f7f7-48ce-86db-7ab6726647a0" />
+<img width="963" height="498" alt="image" src="https://github.com/user-attachments/assets/f1cc5130-9474-44e6-b6fd-f33571b47e8d" />
+<img width="958" height="505" alt="image" src="https://github.com/user-attachments/assets/a2390e45-e5bc-4ab4-9bc1-436ec0a32ee0" />
+<img width="1024" height="526" alt="image" src="https://github.com/user-attachments/assets/879e3cbf-3c44-480c-9bb5-561bb8726532" />
+<img width="964" height="511" alt="image" src="https://github.com/user-attachments/assets/a9be7c6b-4fc2-408f-856e-f96957454801" />
+<img width="1046" height="526" alt="image" src="https://github.com/user-attachments/assets/c681c119-3dd6-4661-b072-7b6b3bb054d7" />
+<img width="1036" height="532" alt="image" src="https://github.com/user-attachments/assets/8498293a-9fe3-43f5-b0fb-4c330a2481b7" />
+<img width="956" height="537" alt="image" src="https://github.com/user-attachments/assets/2b7a088f-69dd-49fe-9b11-5a3d6b1279f6" />
+<img width="1063" height="496" alt="image" src="https://github.com/user-attachments/assets/ef3631d0-f43a-4d68-ba0f-340347cff1d8" />
 
+__________________
+
+## CRM (Customer Relationship Management)
+- Customer Relationship Management (CRM) is both a business strategy and a technology solution that organizations use to manage interactions with current and potential customers.
+
+__________________
+- Main Components of CRM
+<img width="1090" height="621" alt="image" src="https://github.com/user-attachments/assets/2c6a71fb-78de-4a9a-801c-50466c752ed4" />
+__________________
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
