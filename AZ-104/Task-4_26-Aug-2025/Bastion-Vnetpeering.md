@@ -25,3 +25,8 @@
 2. Created 2 new VM in both the VNet
 3. Peering completed for both Vnet which is in diffrent CIDR
    <img width="1900" height="455" alt="image" src="https://github.com/user-attachments/assets/3e652ad3-b5d5-4e9c-ba34-9d5595342b6b" />
+
+## Assignment
+- Using the Azure Bastion service to connect to virtual machines in virtual networks in another region
+- We cannnot use same bastion, as it it reginal service
+<img width="1911" height="857" alt="image" src="https://github.com/user-attachments/assets/b05b9c8e-fcae-4e0d-ace3-225616a0f5d9" />
