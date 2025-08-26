@@ -18,3 +18,10 @@
 - Connect VM via bastion host
 <img width="782" height="619" alt="image" src="https://github.com/user-attachments/assets/fd045d67-4b46-43d0-aaba-f3343944a831" />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# Vnet peering
+1. Created 2 diifrent vnet without public IP in diffrent region
+2. Created 2 new VM in both the VNet
+3. Peering completed for both Vnet which is in diffrent CIDR
+   <img width="1900" height="455" alt="image" src="https://github.com/user-attachments/assets/3e652ad3-b5d5-4e9c-ba34-9d5595342b6b" />
