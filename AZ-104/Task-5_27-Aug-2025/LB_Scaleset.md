@@ -1,4 +1,4 @@
-# The Azure Load Balancer Service
+ou# The Azure Load Balancer Service
 ## Basic Load Balancer
 1. Setup 2 VM with nginx intsall on it and enable default.html page for better understanding. Als used same NSG for both VM and used availablity set
 2. Deassocciate public IPs of VM But, the basic LB is not available in MS Azure we need to practice on Standard SKU
@@ -77,7 +77,8 @@ ______
   <img width="1910" height="499" alt="image" src="https://github.com/user-attachments/assets/86a8d297-b49c-48d6-bd36-63fd51e75036" />
   
 ___________________________
-- Added it in backend pool
+- Added it in backend pool need to troubeleshoot wht not able to access the webapp after changing the inbond rule
+- Try using the old NSG
 <img width="1911" height="579" alt="image" src="https://github.com/user-attachments/assets/db880a05-68bd-4ecc-a7b7-067c18490b75" />
 
 
