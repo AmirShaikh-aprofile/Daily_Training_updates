@@ -79,6 +79,7 @@ ______
 ___________________________
 - Added it in backend pool need to troubeleshoot wht not able to access the webapp after changing the inbond rule
 - Try using the old NSG
+- Change the inbond rule and ssh the server to check the status the nginx
 <img width="1911" height="579" alt="image" src="https://github.com/user-attachments/assets/db880a05-68bd-4ecc-a7b7-067c18490b75" />
 
 
