@@ -1,7 +1,15 @@
-<img width="1909" height="648" alt="image" src="https://github.com/user-attachments/assets/0cff2895-1c60-427b-9e51-1d8750305cde" /># The Azure Load Balancer Service
+# The Azure Load Balancer Service
 ## Basic Load Balancer
 1. Setup 2 VM with nginx intsall on it and enable default.html page for better understanding. Als used same NSG for both VM and used availablity set
 2. Deassocciate public IPs of VM But, the basic LB is not available in MS Azure we need to practice on Standard SKU
+3. Created Storage account for shell script of nginx installation
+4. Created standard LB with frontendIP and backend pool
+5. Added Prob Health
+6. Added LB rule
+7. Webapp was not working on Windows server so created new backendpoll with linux server and addded new LB rule
+8. Unable to connect the VMs from NAT rules, troushooting done and added new LB rule
+9. Added outbond rule for internet connection on VMs
+10. Also able to login to windows server after changeing the inbond rule in NSG
 
 
 
@@ -52,6 +60,7 @@ ______
 ## Multi FrontEnd IPaddress
 - We can create multiple fronendip because we cannot use the same for diffrent backendpool, but it is not working as expected, checked the inbond ruls also
 <img width="337" height="106" alt="image" src="https://github.com/user-attachments/assets/0be5e580-0b50-4dfe-bbef-94342f46def9" />
+
 
 
 
