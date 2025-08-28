@@ -26,14 +26,23 @@
 - Azure container app - 
 - Azure web app - Create the resource which can directly run the image from container registry.
 - IPD Address range and CIDR  
-- Virtual Network
+
+  ## Virtual Network
  - Network Insterface -
  - Netwrok Security Groups
  - Subnets
  - Inbond and outbond rules
  - Application Security Groups
-
 - Azure Bastion
 - Vnet Peering
 - User Defined Routes
 - Network watcher - Connection troubleshoot, connection monitor, IP flow verify, Next hop, NSG Diagnostic and flow logs
+- User Defind routes
+- Netwrok Watcher
+- Azure Load Balancer
+- Application Gateway
+- Azure Application Gateway - Multiple Sites - Implementation
+- DNS (Domain Name system)
+- Azure Public DNS
+- Private DNS
+- Azure Web App - Virtual Network Integration
