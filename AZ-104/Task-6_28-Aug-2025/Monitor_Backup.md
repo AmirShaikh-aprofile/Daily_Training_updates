@@ -9,6 +9,9 @@
 1. Can keep back on VM, storage and other resources in azure key vault
 2. Started backup on daily basis also we can bakup manually
 3. File restore and VM restore (Pending due to VM back is taking time )
+4. Taking backup on premise we need to install mars agent
+5. Azure Site Recovery - Azure VM - Enabling replication
+6. Backup Vault - takes snapshot of vm and blobs and other resources
 
 
 ____
@@ -39,3 +42,4 @@ ___
 ___
 - File restore and VM restore (Pending due to VM back is taking time )
 <img width="1906" height="547" alt="image" src="https://github.com/user-attachments/assets/67e7f21f-a081-4d75-8d19-c3c4237a731d" />
+
