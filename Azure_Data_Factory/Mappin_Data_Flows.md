@@ -57,3 +57,25 @@ ___
 - Created new table changed the setting schema setting fro runtime
 <img width="670" height="168" alt="image" src="https://github.com/user-attachments/assets/a3262ad0-8b0f-4ba3-84d2-8e1a07baa1fc" />
 
+___
+- Integration Runtime Performance
+<img width="1481" height="797" alt="image" src="https://github.com/user-attachments/assets/34f8b4db-8590-4ee3-a1e6-6dc466677908" />
+
+___
+- Monitoring Data Flow Performance
+<img width="1457" height="790" alt="image" src="https://github.com/user-attachments/assets/6d8dc088-412b-4708-8d3a-3b35ee4703f9" />
+
+___
+- Implementing Data Flowlet
+- Overview of Flowlets
+<img width="1417" height="817" alt="image" src="https://github.com/user-attachments/assets/c9f1bb7d-9f52-4b1c-b13d-c2db278c5b68" />
+
+___
+Common Use Cases for Flowlets
+<img width="1488" height="843" alt="image" src="https://github.com/user-attachments/assets/e7395e67-d8ae-4492-a4c6-1f5d3d94f4a3" />
+
+___
+- Created flow let with previos task with qunatity!=0
+<img width="1863" height="918" alt="image" src="https://github.com/user-attachments/assets/3caaf259-a5aa-4754-901d-3e356e186098" />
+
+
