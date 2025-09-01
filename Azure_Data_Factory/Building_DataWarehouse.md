@@ -36,3 +36,22 @@ ___
 ___
 - Created Pipeline to copy multiple file from cleansed to SQL database
 <img width="1851" height="926" alt="image" src="https://github.com/user-attachments/assets/29e2c52e-3960-4a02-a348-9937f63e177d" />
+
+___
+- Overview of Dimensions
+<img width="1443" height="831" alt="image" src="https://github.com/user-attachments/assets/6d1629c0-87ac-446b-8a82-a5ce8281998d" />
+
+___
+- Overview of Slowly Changing Dimensions
+<img width="1478" height="818" alt="image" src="https://github.com/user-attachments/assets/6ff5d083-8dc6-4151-ba4b-06ba0d68cfcb" />
+
+___
+- Master Dimensions and their type
+<img width="1462" height="824" alt="image" src="https://github.com/user-attachments/assets/58d5087f-8d66-475b-9a53-5fac21f49ceb" />
+
+___
+- Building the SCD Type 1 Dimensions
+<img width="1473" height="786" alt="image" src="https://github.com/user-attachments/assets/e8df9d36-49cf-47d3-83bc-9d6137935e95" />
+
+
+
