@@ -53,5 +53,13 @@ ___
 - Building the SCD Type 1 Dimensions
 <img width="1473" height="786" alt="image" src="https://github.com/user-attachments/assets/e8df9d36-49cf-47d3-83bc-9d6137935e95" />
 
+___
+## Practice and Pipeline
+
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/b6d46b5e-4446-4110-bc21-25ce5535fa05" />
+
+<img width="1908" height="917" alt="image" src="https://github.com/user-attachments/assets/537c9ab9-a20b-4980-8331-bb8bcf622ca2" />
+
+
 
 
