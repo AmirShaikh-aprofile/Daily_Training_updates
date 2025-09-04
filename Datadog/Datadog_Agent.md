@@ -73,3 +73,46 @@ ___
 ___
 ## Infrastructure Monitoring Containers
 - Docker Setup
+- Installed docker on windows machine and run nginx container
+<img width="1268" height="836" alt="image" src="https://github.com/user-attachments/assets/a95c8138-8201-4431-9778-5e284fce10e3" />
+
+- Installed datadog agent on docker container
+<img width="1097" height="884" alt="image" src="https://github.com/user-attachments/assets/033ab6b3-c7d6-487c-9bab-fa9738a7f1e3" />
+<img width="1029" height="684" alt="image" src="https://github.com/user-attachments/assets/bff5a19f-0684-4a90-9c9a-3a5ddaf4ace5" />
+
+- Docker container reporting in console
+<img width="1911" height="465" alt="image" src="https://github.com/user-attachments/assets/da5d0233-fd51-40fd-8fb7-2c4fd403d574" />
+
+___
+- Environment Variables Translation rules
+- https://docs.datadoghq.com/containers/docker/?tab=standard#environment-variables
+
+
+___
+## Metrics and Metric View in Datadog
+- Metric Summary page
+<img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/adb88be3-b886-4b6d-9528-7d490be5bff2" />
+
+___
+- Metrics Explorer
+<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/e869ff83-33a0-4324-aaac-3565fe2e0dd3" />
+
+___
+
+## Custom Metrics Agent Check
+- Create .py file and save in check.d folder
+<img width="1048" height="793" alt="image" src="https://github.com/user-attachments/assets/e288e625-a0a9-4c02-8f6c-6b03725da5be" />
+
+___
+- Create yaml file and folder and save in conf.d folder
+<img width="966" height="785" alt="image" src="https://github.com/user-attachments/assets/d7f11087-c526-4d52-b49d-c124f26fe24e" />
+
+___
+- Restart the agent and check the checkes summary
+<img width="1128" height="851" alt="image" src="https://github.com/user-attachments/assets/975c344d-2b00-48fc-ade9-807c6f94d3a1" />
+
+__
+- Search for custom mettrics we have created
+![Uploading image.png…]()
+
+
