@@ -113,6 +113,21 @@ ___
 
 __
 - Search for custom mettrics we have created
-![Uploading image.png…]()
+<img width="1357" height="744" alt="image" src="https://github.com/user-attachments/assets/41e9c42e-4d52-4981-8ff2-d1605425cae1" />
+
+___
+## Custom Metrics - DogStatsD & Python app
+- Python application code to instrument
+<img width="1351" height="743" alt="image" src="https://github.com/user-attachments/assets/a8e44e5f-8a5e-468c-b04d-8d9d17ae625d" />
+
+___
+- Instrument Python app for COUNT metric type
+<img width="1906" height="911" alt="image" src="https://github.com/user-attachments/assets/10eb0bbe-ff2d-43f9-8e1f-1a8f283c81a7" />
+<img width="1912" height="910" alt="image" src="https://github.com/user-attachments/assets/e9414070-e74d-4858-bd97-618114c1c925" />
+
+___
+-  Instrument Python app for GAUGE metric type
+-  Instrument Python app for HISTOGRAM & DISTRIBUTION
+<img width="1897" height="913" alt="image" src="https://github.com/user-attachments/assets/7ed89248-cd5f-4200-aafd-ec6301e3fa71" />
 
 
