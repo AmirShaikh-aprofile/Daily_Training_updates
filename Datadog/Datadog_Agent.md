@@ -130,4 +130,74 @@ ___
 -  Instrument Python app for HISTOGRAM & DISTRIBUTION
 <img width="1897" height="913" alt="image" src="https://github.com/user-attachments/assets/7ed89248-cd5f-4200-aafd-ec6301e3fa71" />
 
+___
+## Events
+- Event Log Check to capture Windows Events
+- We can find all list of events logs with below command:
+  -  PS C:\Users\azureuser> Get-WinEvent -ListLog * | sort Record
+
+___
+- Updated the required configuration in conf.yaml file and agent manager.
+<img width="1308" height="736" alt="image" src="https://github.com/user-attachments/assets/64aa0766-8b17-4996-af57-3b1ceea935a3" />
+<img width="1139" height="256" alt="image" src="https://github.com/user-attachments/assets/0c94a7b6-da04-4372-b510-c3cb3b60dc1c" />
+<img width="1032" height="721" alt="image" src="https://github.com/user-attachments/assets/63fc4d2d-a24e-433b-ae98-422ceccd160c" />
+<img width="1901" height="983" alt="image" src="https://github.com/user-attachments/assets/d4e42d22-002c-4039-b530-cf3f7ba3f26c" />
+
+___
+- Creating Custom events for application
+<img width="1900" height="897" alt="image" src="https://github.com/user-attachments/assets/72538456-8b6b-418a-9f4c-e36c368bc911" />
+
+___
+## Notebook
+- Create notebook - Add Timeseries Cell
+<img width="1898" height="899" alt="image" src="https://github.com/user-attachments/assets/3779799e-f8aa-4729-a044-05f6b83f44f3" />
+
+___
+-  Add Text, Table cells in notebook
+-  Version History
+<img width="1891" height="891" alt="image" src="https://github.com/user-attachments/assets/79568d33-aacd-40f6-8cd4-bc03881285f1" />
+
+___
+## Dahsboards
+- Types of dashboards
+<img width="1908" height="894" alt="image" src="https://github.com/user-attachments/assets/95fa1698-8e40-4122-ac64-100f479b3003" />
+
+___
+- Timeseries widget created
+<img width="1901" height="901" alt="image" src="https://github.com/user-attachments/assets/a817a750-0ef3-4da6-92f6-eba9ff20a2ed" />
+
+___
+- Find Correlations in metrics - If we want to see the same pattern of diffrent meteric we can add in correlation
+<img width="1905" height="987" alt="image" src="https://github.com/user-attachments/assets/3bf5ac19-b074-4eed-80b2-c2eadcc0c51b" />
+
+___
+- Practices Dashboard Widget
+<img width="1891" height="916" alt="image" src="https://github.com/user-attachments/assets/e3a7d3b4-2adf-426f-92e1-a0e5756636db" />
+
+___
+- Template Variables - We can create it for sperate view as per the services or requirement
+<img width="1900" height="904" alt="image" src="https://github.com/user-attachments/assets/d3a464a2-864b-4458-90da-cce096359714" />
+
+___
+- Dashboard Setting
+<img width="1900" height="903" alt="image" src="https://github.com/user-attachments/assets/64892153-3c54-4254-9080-f861551ea7e3" />
+
+___
+## Monitors and Alerts
+- Prepared the Alert the run the testing, received alert email
+<img width="1911" height="917" alt="image" src="https://github.com/user-attachments/assets/30ed943b-2ff4-4261-91c7-493981884477" />
+<img width="1244" height="808" alt="image" src="https://github.com/user-attachments/assets/5b70e686-53ab-4e7d-97d2-6e8064d2dd6c" />
+
+___
+- Created alert and stop the datadog agent, received alert on email.
+<img width="1897" height="892" alt="image" src="https://github.com/user-attachments/assets/ca028c72-c722-41b9-94ec-54a4d366593b" />
+<img width="1222" height="809" alt="image" src="https://github.com/user-attachments/assets/655ef31b-eacc-4dae-ac47-7abaf14417bd" />
+
+___
+-  Downtime - Created Downtime as maintainence window for host offilne
+<img width="1908" height="903" alt="image" src="https://github.com/user-attachments/assets/6a191c75-2fb9-42ba-955e-6c0916c5cade" />
+
+___
+- Started Datadog Agent
+<img width="1222" height="794" alt="image" src="https://github.com/user-attachments/assets/026368db-a5f3-48d0-856c-8794728b2e66" />
 
