@@ -116,12 +116,92 @@ docker ps
   115  docker ps
   116  docker run -p 5000:80 --link redis:redis voting-app
   117  history
+    1  sudo install docker
+    2  sudo apt install docker
+    3  sudo apt-get install docker
+    4  sudo update
+    5  sudo apt update
+    6  sudo apt install docker
+    7  for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done
+    8  # Add Docker's official GPG key:
+    9  sudo apt-get update
+   10  sudo apt-get install ca-certificates curl
+   11  sudo install -m 0755 -d /etc/apt/keyrings
+   12  sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+   13  sudo chmod a+r /etc/apt/keyrings/docker.asc
+   14  # Add the repository to Apt sources:
+   15  echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
+   16    $(. /etc/os-release && echo "${UBUNTU_CODENAME:-$VERSION_CODENAME}") stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+   17  sudo apt-get update
+   18  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+   19  docker --version
+   20  docker ps
+   21  sudo su
+   22  sudo su
+   23  ls
+   24  mkdir git
+   25  cd gi
+   26  cd git/
+   27  clone https://github.com/dockersamples/example-voting-app.git
+   28  git clone https://github.com/dockersamples/example-voting-app.git
+   29  ls
+   30  cd example-voting-app/
+   31  ls
+   32  cd vote/
+   33  ls
+   34  docker build . -t voting-app
+   35  sudo docker build . -t voting-app
+   36  docker images
+   37  sudo us
+   38  sudo su
+   39  history
 
 ___
 ## continuing the pratice for vote-app section.
 
+- Cloned the git repo
+- Builed docker image and run on port 5000
+<img width="1142" height="76" alt="image" src="https://github.com/user-attachments/assets/daf61981-9055-48bb-9b46-d5610c62baa8" />
+<img width="1656" height="510" alt="image" src="https://github.com/user-attachments/assets/76c76f4f-05ea-4957-a4b9-067165a6df7c" />
+<img width="1671" height="560" alt="image" src="https://github.com/user-attachments/assets/8e2983c3-7b47-4d5c-bda9-468cfa0ec9a7" />
+
+- Created redis container and linked it with vpoting-app
+<img width="1238" height="357" alt="image" src="https://github.com/user-attachments/assets/424efdab-5c2e-4163-8582-4f23c1f0b243" />
+<img width="1917" height="409" alt="image" src="https://github.com/user-attachments/assets/044c6f33-0c45-4db4-b88c-537972a8f6bf" />
 
 
 
 
 ___
+
+##Comamnds for docker
+
+| #  | Command                                 | Description                                              |
+| -- | --------------------------------------- | -------------------------------------------------------- |
+| 1  | `docker --version`                      | Displays the installed Docker version.                   |
+| 2  | `docker info`                           | Shows detailed information about Docker’s environment.   |
+| 3  | `docker ps`                             | Lists all running containers.                            |
+| 4  | `docker ps -a`                          | Lists all containers, including stopped ones.            |
+| 5  | `docker run [options] <image>`          | Creates and starts a container from an image.            |
+| 6  | `docker start <container>`              | Starts a stopped container.                              |
+| 7  | `docker stop <container>`               | Stops a running container.                               |
+| 8  | `docker restart <container>`            | Restarts a container.                                    |
+| 9  | `docker rm <container>`                 | Removes a container.                                     |
+| 10 | `docker logs <container>`               | Displays logs from a container.                          |
+| 11 | `docker exec -it <container> <command>` | Runs a command inside a running container interactively. |
+| 12 | `docker inspect <container>`            | Shows detailed info about a container’s settings.        |
+| 13 | `docker images`                         | Lists all local Docker images.                           |
+| 14 | `docker pull <image>`                   | Downloads an image from a registry.                      |
+| 15 | `docker build -t <name>:<tag> <path>`   | Builds an image from a Dockerfile at the specified path. |
+| 16 | `docker rmi <image>`                    | Removes one or more images.                              |
+| 17 | `docker tag <image> <new-image-name>`   | Assigns a new tag to an image.                           |
+| 18 | `docker volume create <name>`           | Creates a new volume for persistent storage.             |
+| 19 | `docker volume ls`                      | Lists all volumes.                                       |
+| 20 | `docker volume inspect <volume>`        | Shows details about a volume.                            |
+| 21 | `docker volume rm <volume>`             | Deletes a volume.                                        |
+| 22 | `docker network create <name>`          | Creates a new network.                                   |
+| 23 | `docker network ls`                     | Lists all networks.                                      |
+| 24 | `docker network inspect <network>`      | Shows details of a network.                              |
+| 25 | `docker network rm <network>`           | Removes a network.                                       |
+| 26 | `docker system prune`                   | Cleans up stopped containers, unused net                 |
+
